@@ -14,4 +14,6 @@ public class OrderDto {
     private String paymentMode;
     private BigDecimal amount;
     private String transactionId;
+    private String mobileNumber;
+    private String email;
 }
